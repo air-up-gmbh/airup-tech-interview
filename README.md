@@ -17,7 +17,7 @@ The rest of the input is information related to the rovers that have been deploy
 ## Output
 The output should be the rover's final coordinates and heading.
 
-## Example
+## Examples
 Test Input (1 rover): 
 ```
 5 5
