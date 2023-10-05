@@ -1,4 +1,4 @@
-# Mars Rover Kata
+ƒ# Mars Rover Kata
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. The rovers must navigate this plateau so that their onboard cameras can get a complete view of the surrounding terrain to send back to Earth.
 
 A rover’s position and location are represented by a combination of x and y coordinates and a letter representing one of the four cardinal compass points. The plateau is divided up into a grid to simplify navigation. An example position might be 0, 0, N, which means the rover is in the bottom left corner and facing North.
@@ -12,7 +12,7 @@ Assume that a rover that moves forward facing North changes its position from (x
 ## Input
 The first line of input is the upper-right coordinates of the plateau, the lower-left coordinates are assumed to be 0, 0.
 
-The rest of the input is information related to the rovers that have been deployed. The first line gives the rover’s position, and the second line is a series of instructions telling the rover how to explore the plateau. The position is made up of two integers and a letter separated by spaces, corresponding to the x and y coordinates and the rover’s orientation.
+The rest of the input is information related to the rovers that have been deployed. The second line gives the rover’s position, and the third line is a series of instructions telling the rover how to explore the plateau. The position is made up of two integers and a letter separated by spaces, corresponding to the x and y coordinates and the rover’s orientation.
 
 ## Output
 The output should be the rover's final coordinates and heading.
