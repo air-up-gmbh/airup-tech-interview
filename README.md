@@ -1,4 +1,4 @@
-ƒ# Mars Rover Kata
+# Mars Rover Kata
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. The rovers must navigate this plateau so that their onboard cameras can get a complete view of the surrounding terrain to send back to Earth.
 
 A rover’s position and location are represented by a combination of x and y coordinates and a letter representing one of the four cardinal compass points. The plateau is divided up into a grid to simplify navigation. An example position might be 0, 0, N, which means the rover is in the bottom left corner and facing North.
